@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_328164_acs_table</description>
+        <name>x_328164_acs_table</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-18 15:28:44</sys_created_on>
+        <sys_id>cbe2ae4937103300e7f7dcc773990e0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_328164_acs_table</sys_name>
+        <sys_package display_value="ACS" source="x_328164_acs">72e22a4937103300e7f7dcc773990eff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACS">72e22a4937103300e7f7dcc773990eff</sys_scope>
+        <sys_update_name>sys_security_acl_cbe2ae4937103300e7f7dcc773990e0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-18 15:28:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

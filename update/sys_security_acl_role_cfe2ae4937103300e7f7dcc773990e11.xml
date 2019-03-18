@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-18 15:28:45</sys_created_on>
+        <sys_id>cfe2ae4937103300e7f7dcc773990e11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_328164_acs_table.x_328164_acs.user</sys_name>
+        <sys_package display_value="ACS" source="x_328164_acs">72e22a4937103300e7f7dcc773990eff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACS">72e22a4937103300e7f7dcc773990eff</sys_scope>
+        <sys_security_acl display_value="x_328164_acs_table">4be2ae4937103300e7f7dcc773990e0f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cfe2ae4937103300e7f7dcc773990e11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-18 15:28:45</sys_updated_on>
+        <sys_user_role display_value="x_328164_acs.user" name="x_328164_acs.user">3ee22e4937103300e7f7dcc773990edd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
